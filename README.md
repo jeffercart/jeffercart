@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Hello world, I'm Jeff! 
+**Hello world, I'm Jeff!** 
 
 <!---
 jeffercart/jeffercart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
